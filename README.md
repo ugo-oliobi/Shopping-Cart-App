@@ -21,7 +21,7 @@ A simple and efficient shopping cart application built using **React, JavaScript
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/shopping-cart-app.git
+   git clone https://github.com/ugo-oliobi/shopping-cart-app
    ```
 2. Navigate to the project directory:
    ```sh
